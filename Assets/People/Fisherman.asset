@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ce7ecde84aa21240b97c35aa8568455, type: 3}
+  m_Name: Fisherman
+  m_EditorClassIdentifier: 
+  name: My name is Koi.
+  gold: 50
+  population: -10
+  publicOpinion: 0
+  speak: 'Hi. I''m a fisherman. We have more vacancy slot for people to become a
+    fisherman. We just need people and we will give you money each year.  '
+  description: According to the citizen, he is a very hardworking person.
+  goldNegative: 0
+  populationNegative: -2
+  publicOpinionNegative: -10
+  voiceName: Matthew

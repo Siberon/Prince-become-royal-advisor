@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ce7ecde84aa21240b97c35aa8568455, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  name: My name is Roy.
+  gold: 3
+  population: 10
+  publicOpinion: 10
+  speak: Hello. I'm a knight that serves this kingdom. I'm looking for a trading
+    route with our neighbouring kingdom. Would you like to open trade routes?
+  description: According to the citizen. He is a honest man. He never has any problem
+    with criminal before
+  goldNegative: -10
+  populationNegative: -2
+  publicOpinionNegative: -2
+  voiceName: Matthew
